@@ -1,2 +1,2 @@
 # wydll.github.io
-my first blog
+人间自有辉哥在
